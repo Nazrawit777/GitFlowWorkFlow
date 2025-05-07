@@ -1,0 +1,1 @@
+HTTPS uses username/password or token; SSH uses keys and is more secure.
